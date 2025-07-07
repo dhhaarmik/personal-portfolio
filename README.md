@@ -7,7 +7,7 @@ A modern, responsive personal portfolio website to showcase your projects, skill
 ## 🚀 Live Preview
 
 Explore the deployed version here:  
-👉 [personal-portfolio-pi-six-69.vercel.app](https://personal-portfolio-pi-six-69.vercel.app/)
+👉 [personal-portfolio-pi-six-69.vercel.app](https://personal-portfolio-eight-silk-68.vercel.app/)
 
 ## ✨ Features
 
